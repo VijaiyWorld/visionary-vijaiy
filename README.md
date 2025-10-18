@@ -1,2 +1,2 @@
 # visionary-vijaiy
-This for for Visionary Project
+This for Visionary Project
